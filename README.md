@@ -4,9 +4,9 @@
 ## PU ! WA !
 ![吉娃娃2](http://dingyue.nosdn.127.net/1rjmQWp6UZu5NVrC1icD3O7X3Q2JrcS2YXOjlom7=PrOw1523859055406.jpg)
 ## C
+
 ```C
 #include <stdio.h>
-
 int main() {
     printf("Chihuahua\n");
 }
